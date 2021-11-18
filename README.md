@@ -36,3 +36,9 @@ Los datos de peso y tiempo fueron calculados para una Ender3 con capa 0.2 y un r
 - Celda de carga HX711 + ADC
 - Pantalla Táctil Lcd Tft De 2.0
 - Tornillos m3 x 6mm
+
+## Imagenes del proyecto
+
+![IMG_20190722_163149](https://user-images.githubusercontent.com/56893753/142339981-73fc8879-1fde-4db9-9abc-5f68e488100d.jpg)
+![IMG_20190722_163155](https://user-images.githubusercontent.com/56893753/142340026-49f8f052-f371-44bb-8997-92a80fefd9f3.jpg)
+![IMG_20190722_163143](https://user-images.githubusercontent.com/56893753/142340063-4bf21537-5c00-43d3-9cdc-1e59fcf97d01.jpg)
