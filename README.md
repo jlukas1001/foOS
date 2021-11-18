@@ -1,0 +1,2 @@
+# foOS
+Proyecto de un dispensador de alimento para animales basado en Arduino, cuenta con funcionalidad bluetooth y wifi, permite dispensar alimento n veces al día desde cualquier parte del mundo donde se cuente con conexión a internet, además, el recipiente contiene una báscula la cual entrega la cantidad exacta de comida. El diseño físico fue impreso en 3d, material PLA, diseñado en rhinoceros 3D
